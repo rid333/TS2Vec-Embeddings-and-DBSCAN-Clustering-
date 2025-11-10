@@ -13,4 +13,4 @@ Run full pipeline:
 python main.py
 ```
 
-Example results on `plot/` folder
+Example results on `plot/` dir
