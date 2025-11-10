@@ -1,0 +1,7 @@
+pandas
+numpy
+torch
+ts2vec
+scikit-learn
+matplotlib
+mplcursors
